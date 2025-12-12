@@ -1,0 +1,18 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "MLBTheShow25",
+  "creator": "CaptainDonut",
+  "filler_item_name": "Filler",
+  "starting_items": [
+    {
+      "items": [
+        "Bronze Player (70-74 OVR)", "Bronze Player (70-74 OVR)", "Bronze Player (70-74 OVR)", "Bronze Player (70-74 OVR)", "Bronze Player (70-74 OVR)", "Bronze Player (70-74 OVR)", "Bronze Player (70-74 OVR)", 
+        "Silver Player (75-79 OVR)", "Silver Player (75-79 OVR)", "Silver Player (75-79 OVR)","Silver Player (75-79 OVR)", "Silver Player (75-79 OVR)", "Silver Player (75-79 OVR)",
+        "Gold Player (80-84 OVR)", "Gold Player (80-84 OVR)", "Gold Player (80-84 OVR)", "Gold Player (80-84 OVR)",
+        "Diamond Player I (85-95 OVR)", "Diamond Player I (85-95 OVR)",
+        "Diamond Player II (96-99 OVR)"
+      ],
+      "random": 5
+    }
+  ]
+}
