@@ -1,7 +1,7 @@
 [
   {
     "count": "25",
-    "name": "Bronze",
+    "name": "Bronze Player (70-74 OVR)",
     "category": [
       "Player"
     ],
@@ -9,7 +9,7 @@
   },
   {
     "count": "25",
-    "name": "Silver",
+    "name": "Silver Player (75-79 OVR)",
     "category": [
       "Player"
     ],
@@ -17,7 +17,7 @@
   },
   {
     "count": "35",
-    "name": "Gold",
+    "name": "Gold Player (80-84 OVR)",
     "category": [
       "Player"
     ],
@@ -25,7 +25,7 @@
   },
   {
     "count": "10",
-    "name": "Diamond < 90",
+    "name": "Diamond Player I (85-95 OVR)",
     "category": [
       "Player"
     ],
@@ -33,7 +33,7 @@
   },
   {
     "count": "5",
-    "name": "Diamond 90+",
+    "name": "Diamond Player II (96-99 OVR)",
     "category": [
       "Player"
     ],
