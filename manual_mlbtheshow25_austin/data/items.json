@@ -1,0 +1,42 @@
+[
+  {
+    "count": "25",
+    "name": "Bronze",
+    "category": [
+      "Player"
+    ],
+    "useful": true
+  },
+  {
+    "count": "25",
+    "name": "Silver",
+    "category": [
+      "Player"
+    ],
+    "useful": true
+  },
+  {
+    "count": "35",
+    "name": "Gold",
+    "category": [
+      "Player"
+    ],
+    "useful": true
+  },
+  {
+    "count": "10",
+    "name": "Diamond < 90",
+    "category": [
+      "Player"
+    ],
+    "useful": true
+  },
+  {
+    "count": "5",
+    "name": "Diamond 90+",
+    "category": [
+      "Player"
+    ],
+    "useful": true
+  }
+]
